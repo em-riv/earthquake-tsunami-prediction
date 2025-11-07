@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/ahmeduzaki/global-earthquake-tsunami-risk-assess
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python 3.13.5**
 - **Data Analysis:** pandas, numpy
 - **Visualization:** matplotlib, seaborn
 - **Machine Learning:** scikit-learn
